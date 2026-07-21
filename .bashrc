@@ -5,7 +5,7 @@
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
 # Grep colors
-export GREP_OPTIONS='--color=auto' GREP_COLOR='1;32'
+export GREP_OPTIONS='--color=auto' GREP_COLORS='mt=1;32'
 
 # Enable colors for ls
 export CLICOLOR=1
